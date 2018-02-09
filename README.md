@@ -1,4 +1,4 @@
-### Author : Ghita TAZI
+### Author : Harikrishna Suddapalli
 
 CHALLENGE STATEMENT
 -------------------
